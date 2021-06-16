@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 Kompas 5 Mei 2021, halaman 10
 
-![kompas]({{site.url}}/assets/Kompas-2021-05-15-hal-10.png)
+![kompas]({{site.url}}/{{site.baseurl}}/assets/Kompas-2021-05-15-hal-10.png)
 
